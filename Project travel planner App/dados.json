@@ -1,0 +1,32 @@
+[
+    {
+        "Destino": "Madrid",
+        "Reserva": "Hotel Palacio de los Duques Gran Meliá 5 estrelas",
+        "Orçamento": "595 por noite"
+    },
+    {
+        "Destino": "Madrid",
+        "Reserva": "Hotel Mirador de ChamartínAbre numa nova janela\n 4 estrelas",
+        "Orçamento": "214 por noite"
+    },
+    {
+        "Destino": "Madrid",
+        "Reserva": "DinastiaAbre numa nova janela\n3 estrelas",
+        "Orçamento": "68 por noite"
+    },
+    {
+        "Destino": "Milão",
+        "Reserva": "Hotel Berlino",
+        "Orçamento": "103 por noite"
+    },
+    {
+        "Destino": "Milão",
+        "Reserva": "Cosmo Hotel PalaceAbre 4 estrelas\n",
+        "Orçamento": "133 por noite"
+    },
+    {
+        "Destino": "Milão",
+        "Reserva": "Palazzo Cordusio Gran Meliá 5 estrelas\n",
+        "Orçamento": "975 por noite"
+    }
+]
